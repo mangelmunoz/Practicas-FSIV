@@ -1,0 +1,3 @@
+/home/miguel/Escritorio/ING_INFORMATICA/Tercero/FSIV/Practicas/Practica2/color_balance/i72mumam/build/CMakeFiles/edit_cache.dir
+/home/miguel/Escritorio/ING_INFORMATICA/Tercero/FSIV/Practicas/Practica2/color_balance/i72mumam/build/CMakeFiles/rebuild_cache.dir
+/home/miguel/Escritorio/ING_INFORMATICA/Tercero/FSIV/Practicas/Practica2/color_balance/i72mumam/build/CMakeFiles/color_balance.dir

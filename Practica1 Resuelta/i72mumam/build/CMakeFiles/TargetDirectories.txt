@@ -1,0 +1,3 @@
+/home/miguel/Escritorio/ING_INFORMATICA/Tercero/FSIV/Practicas/Practica1/i72mumam/build/CMakeFiles/rebuild_cache.dir
+/home/miguel/Escritorio/ING_INFORMATICA/Tercero/FSIV/Practicas/Practica1/i72mumam/build/CMakeFiles/edit_cache.dir
+/home/miguel/Escritorio/ING_INFORMATICA/Tercero/FSIV/Practicas/Practica1/i72mumam/build/CMakeFiles/Realzar_primer_plano.dir

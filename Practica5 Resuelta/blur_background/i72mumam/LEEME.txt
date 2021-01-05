@@ -1,0 +1,33 @@
+LEEME
+
+He realizado la parte obligatoria, en la cual recreamos un efecto de suavizado del fondo del vídeo.
+
+También he realizado la parte opcional, la cual permite controlar la forma en que se obtiene la máscara, según la aplicaciín o no de los siguientes pasos: 
+
+Paso1: Normalizar la máscara en el rango [0,1].
+
+Paso2: Umbralizar (o no) el resultado del Paso1 según un umbral.
+
+Paso3: Dilatar (o no) el resultado del Paso2 según un elemento estructural dado.
+
+Paso4: Calcular la máscara usando un factor de memoria alfa dado
+
+Para ejecutar la parte obligatoria del programa, escribimos en en el terminal lo siguiente:
+
+./blur_background test.webm
+
+Para ejecutar el paso 1 de la parte opcional, escribimos en el terminal lo siguiente:
+
+./blur_background test.webm -n
+
+Para ejecutar el paso 2 de la parte opcional, escribimos en el terminal lo siguiente:
+
+./blur_background test.webm -n -t=<ValorUmbral>
+
+Para ejecutar el paso 3 de la parte opcional, escribimos en el terminal lo siguiente:
+
+./blur_background test.webm -n -t=<ValorUmbral> -s=<RadioElementoEstructural>
+
+Para ejecutar el paso 4 de la parte opcional, escribimos en el terminal lo siguiente:
+
+./blur_background test.webm -n -t=<ValorUmbral> -s=<RadioElementoEstructural> -a=<ValorAlpha>

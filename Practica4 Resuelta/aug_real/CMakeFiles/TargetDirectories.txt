@@ -1,0 +1,4 @@
+/home/miguel/Escritorio/ING_INFORMATICA/Tercero/FSIV/Practicas/Practica4/aug_real/CMakeFiles/rebuild_cache.dir
+/home/miguel/Escritorio/ING_INFORMATICA/Tercero/FSIV/Practicas/Practica4/aug_real/CMakeFiles/edit_cache.dir
+/home/miguel/Escritorio/ING_INFORMATICA/Tercero/FSIV/Practicas/Practica4/aug_real/CMakeFiles/calibrate_camera.dir
+/home/miguel/Escritorio/ING_INFORMATICA/Tercero/FSIV/Practicas/Practica4/aug_real/CMakeFiles/aug_real.dir

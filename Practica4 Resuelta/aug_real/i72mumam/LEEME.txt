@@ -1,0 +1,36 @@
+LEEME
+
+He realizado la parte obligatoria, donde superpongo información virtual 3d sobre un video, en este caso, los ejes de coordenadas del mundo.
+
+También he realizado la parte opcional, en la cual creo un modelo 3D mas complejo, creo un nuevo programa que permita calibrar una cámara, obteniendo los valores intrínsecos, y muestro tanto una imagen "virtual" como un video "virtual" en el video del tablero.
+
+Para compilar, escribimos en la linea de comandos las siguientes líneas:
+
+mkdir build  
+cd build 
+cmake ..
+make
+
+- Para ejecutar la parte obligatoria del programa, escribimos en la línea de comandos lo siguiente:
+
+./aug_real <FilasTablero> <ColumnasTablero> <TamañoCuadro> <Nombre-Fichero.yml> 
+<Video | Webcam>
+
+- Para ejecutar la parte opcional del programa referente a la creación de un modelo 3D complejo, escribimos en la línea de comandos lo siguiente:
+
+./aug_real -m <FilasTablero> <ColumnasTablero> <TamañoCuadro> <Nombre-Fichero.yml> 
+<Video | Webcam>
+
+- Para ejecutar la parte opcional del programa referente a la calibración de una cámara, escribimos en la línea de comandos lo siguiente:
+
+./calibrate_camera <Nombre-Fichero.yml> <FilasTablero> <ColumnasTablero> <TamañoCuadro> <imagen_1 imagen_2 ... imagen_n>
+
+- Para ejecutar la parte opcional del programa referente a mostrar una imagen "virtual" sobre el tablero, escribimos en la línea de comandos lo siguiente:
+
+./aug_real -m <FilasTablero> <ColumnasTablero> <TamañoCuadro> <Nombre-Fichero.yml> 
+<Video | Webcam> -i=<NombreImagen>
+
+- Para ejecutar la parte opcional del programa referente a mostrar un video "virtual" sobre el tablero, escribimos en la línea de comandos lo siguiente:
+
+./aug_real -m <FilasTablero> <ColumnasTablero> <TamañoCuadro> <Nombre-Fichero.yml> 
+<Video | Webcam> -v=<NombreVideo>

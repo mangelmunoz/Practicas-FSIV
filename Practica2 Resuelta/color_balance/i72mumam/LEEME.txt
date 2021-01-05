@@ -1,0 +1,15 @@
+LEEME
+
+He realizado la parte obligatoria, la cual consta de aplicar la técnica de equilibrado del color por el punto blanco "White Patch" a una imagen, y parcialmente el punto 1 de la parte opcional, que consiste en aplicar la técnica de equilibrado "Gray World".
+
+- Para compilar, escribimos en la linea de comandos las siguientes lineas:
+mkdir build  
+cd build 
+cmake ..
+make
+
+- Para ejecutar el programa, escribimos en la línea de comandos la siguiente linea:
+
+./color_balance <imagen_entrada> <imagen_salida> -p=<numero>
+
+En el argumento -p=<numero>, indicamos la técnica a utilizar, siendo -p=0 la técnica "White Patch", y -p=100 la técnica "Gray World"

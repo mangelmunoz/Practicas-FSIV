@@ -1,0 +1,6 @@
+/home/miguel/Escritorio/ING_INFORMATICA/Tercero/FSIV/Practica1/fsiv_tutorial_opencv/CMakeFiles/rebuild_cache.dir
+/home/miguel/Escritorio/ING_INFORMATICA/Tercero/FSIV/Practica1/fsiv_tutorial_opencv/CMakeFiles/edit_cache.dir
+/home/miguel/Escritorio/ING_INFORMATICA/Tercero/FSIV/Practica1/fsiv_tutorial_opencv/CMakeFiles/show_video.dir
+/home/miguel/Escritorio/ING_INFORMATICA/Tercero/FSIV/Practica1/fsiv_tutorial_opencv/CMakeFiles/show_img.dir
+/home/miguel/Escritorio/ING_INFORMATICA/Tercero/FSIV/Practica1/fsiv_tutorial_opencv/CMakeFiles/comp_stats.dir
+/home/miguel/Escritorio/ING_INFORMATICA/Tercero/FSIV/Practica1/fsiv_tutorial_opencv/CMakeFiles/esqueleto.dir

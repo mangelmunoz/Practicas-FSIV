@@ -1,0 +1,17 @@
+LEEME
+
+He realizado la parte obligatoria, la cual consta de aplicar un realce por máscara de desenfoque (unsharp mask), mediante el uso de la técnica de suavizado Box Filter.
+
+- Para compilar, escribimos en la linea de comandos las siguientes lineas:
+mkdir build  
+cd build 
+cmake ..
+make
+
+- Para ejecutar el programa, escribimos en la línea de comandos la siguiente línea:
+
+./usm_enhance -r=<numero_radio> -g=<numero_ganancia> <imagen_entrada> <imagen_salida>
+
+En el argumento -r=<numero_radio>, indicamos el radio de la matriz utilizada en box filter
+
+En el argumento -g=<numero_ganancia>, indicamos la ganancia de realce que queremos aplicar a la imagen
