@@ -1,3 +1,0 @@
-/home/miguel/Escritorio/ING_INFORMATICA/Tercero/FSIV/Practicas/Practica5/blur_background/CMakeFiles/rebuild_cache.dir
-/home/miguel/Escritorio/ING_INFORMATICA/Tercero/FSIV/Practicas/Practica5/blur_background/CMakeFiles/edit_cache.dir
-/home/miguel/Escritorio/ING_INFORMATICA/Tercero/FSIV/Practicas/Practica5/blur_background/CMakeFiles/blur_background.dir

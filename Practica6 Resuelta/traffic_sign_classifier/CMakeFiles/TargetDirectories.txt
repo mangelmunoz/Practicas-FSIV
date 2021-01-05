@@ -1,5 +1,0 @@
-/home/miguel/Escritorio/ING_INFORMATICA/Tercero/FSIV/Practicas/Practica6/traffic_sign_classifier/CMakeFiles/rebuild_cache.dir
-/home/miguel/Escritorio/ING_INFORMATICA/Tercero/FSIV/Practicas/Practica6/traffic_sign_classifier/CMakeFiles/edit_cache.dir
-/home/miguel/Escritorio/ING_INFORMATICA/Tercero/FSIV/Practicas/Practica6/traffic_sign_classifier/CMakeFiles/test_image.dir
-/home/miguel/Escritorio/ING_INFORMATICA/Tercero/FSIV/Practicas/Practica6/traffic_sign_classifier/CMakeFiles/test_lbp.dir
-/home/miguel/Escritorio/ING_INFORMATICA/Tercero/FSIV/Practicas/Practica6/traffic_sign_classifier/CMakeFiles/train_test_clf.dir

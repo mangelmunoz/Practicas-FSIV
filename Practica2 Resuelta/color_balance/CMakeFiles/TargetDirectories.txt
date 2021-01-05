@@ -1,3 +1,0 @@
-/home/miguel/Escritorio/ING_INFORMATICA/Tercero/FSIV/Practicas/Practica2/color_balance/CMakeFiles/edit_cache.dir
-/home/miguel/Escritorio/ING_INFORMATICA/Tercero/FSIV/Practicas/Practica2/color_balance/CMakeFiles/rebuild_cache.dir
-/home/miguel/Escritorio/ING_INFORMATICA/Tercero/FSIV/Practicas/Practica2/color_balance/CMakeFiles/color_balance.dir

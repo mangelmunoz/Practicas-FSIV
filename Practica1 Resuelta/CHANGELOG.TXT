@@ -1,6 +1,0 @@
-1.0
-- Versión inicial.
-
-1.1
-- Añadido fichero CHANGELOG.TXT
-- Eliminado de CMakeLists.txt path a librerias solo para ThinStation porque ya no son necesarios.
